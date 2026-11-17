@@ -1,0 +1,72 @@
+; Unblock some stuff
+
+; Microsoft
+@@||microsoft.com^
+@@||azure.net^
+@@||azure.com^
+@@||partnerresources.azureedge.net^
+@@||management.azure.com^
+@@||azmk8s.io^
+@@||docs.appsvio.com^
+@@||clarity.microsoft.com^
+
+; HubSpot
+@@||hubspot.com^
+@@||js.hubspot.com^
+
+; Dell
+@@||dell.com^
+@@||dellcdn.com^
+
+; Steam and Gaming
+@@||steamcommunity.com^
+@@||steampowered.com^
+@@||steamstatic.com^
+@@||discord.com^
+
+; Social and IM
+@@||telegram.org^
+@@||t.me^
+@@||x.com^
+
+; Meta (Facebook, Instagram, WA)
+@@||whatsapp.net^
+@@||facebook.com^
+@@||cdninstagram.com^
+@@||instagram.com^
+
+; AI tools
+@@||deepseek.com^
+@@||chat.deepseek.com^
+
+; Google
+@@||calenda.app.google^
+@@||app.google^
+
+; Some other services (TODO check)
+@@||blog.logrocket.com^
+@@||beonex.com^
+
+; Tools for work
+@@||scalar.com^
+@@||canva.com^
+@@||lumexui.org^
+@@||mxtoolbox.com^
+@@||tldv.io^
+@@||make.com^
+@@||gitkraken.dev^
+@@||read.ai^
+
+; Yandex and VK
+@@||vkvideo.ru^
+@@||yandex.net^
+@@||yastatic.net^
+@@||yandex.cloud^
+@@||forms.yandex.ru^
+@@||clickhouse.com^
+@@||st.aestatic.net^
+
+; AliExpress
+@@||alicdn.com^
+@@||aliexpress.com^
+@@||aliexpress.ru^
