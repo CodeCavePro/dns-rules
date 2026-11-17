@@ -1,6 +1,3 @@
-; Try to use local NetBird server first (before probing public hostname)
-||netbird.private.codecave.network^$dnsrewrite=NOERROR;CNAME;static.by.onprem.codecave.network,client=10.11.4.20
-
 ; Block tracking and ads
 ||luckyorange.com^
 ||freshmarketer.com^
